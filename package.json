@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://bbavoso.github.io/HackDarmouthDemoWebsite",
+  "homepage": "https://bbavoso.github.io/HackDartmouthDemoWebsite",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
